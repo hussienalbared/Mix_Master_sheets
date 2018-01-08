@@ -89,9 +89,9 @@ font-size: 20px;
     text-align: center;
 } 
 .sec5{
-    background-color: #999999;
+    background-color: black;
     /* height: 600px; */
-   
+color: white;   
 }
 .gallery{
 
@@ -115,6 +115,6 @@ li{
     margin-bottom: 12px;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
     font-size: 18px;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid grey;
 
 }
